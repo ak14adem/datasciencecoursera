@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589325709522.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1224358381",
+    "id" : "AD22EA34",
+    "lastKnownWriteTime" : 1589324892,
+    "last_content_update" : 1589324892,
+    "path" : "~/hermit2.0/Scripts/my_first_R_script.R",
+    "project_path" : "Scripts/my_first_R_script.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
